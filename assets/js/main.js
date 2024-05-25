@@ -11,6 +11,13 @@
 
     $(document).on('ready', function() {
 
+        if (sessionStorage.getItem('f')){
+            $(".all-content").show();
+
+        }else {
+            sessionStorage.setItem('f', 'f')
+
+        }
 
         /* ==================================================
             # Wow Init
