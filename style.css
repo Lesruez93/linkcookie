@@ -1991,7 +1991,7 @@ body,
   content: "";
   height: 100%;
   width: 100%;
-  background: url(assets/img/shape/1.png);
+
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -3272,7 +3272,7 @@ body,
     content: "";
     height: 100%;
     width: 100%;
-    background: url(assets/img/shape/1.png);
+
     background-size: contain;
     z-index: -1;
     background-position: bottom;
@@ -3945,7 +3945,7 @@ body,
   content: "";
   height: 100%;
   width: 100%;
-  background: url(assets/img/shape/1.png);
+
   background-size: contain;
   background-repeat: no-repeat;
   z-index: -1;
